@@ -10,3 +10,9 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
+.vs
+.idea
+/driver_inject_dll
+/dummy/output
+.cache
+/tlg_loader/build
