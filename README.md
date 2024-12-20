@@ -8,6 +8,7 @@
 - CMake 3.27+
 - Visual Studio 2019+ build tools
 - Windows Driver Kit 10
+- Python 3.8+
 
 
 
