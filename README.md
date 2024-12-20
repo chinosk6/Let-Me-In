@@ -32,7 +32,6 @@ Run tlg_starter.exe. It will inject loader.dll into the game.
 ### Inspiration
 
 - [KDU](https://github.com/hfiref0x/KDU)
-
+- [fumo_loader](https://github.com/dumbasPL/fumo_loader)
 - [驱动开发：内核远程线程实现DLL注入](https://www.cnblogs.com/LyShark/p/17172407.html)
-
 - [Windows 11 SSDT & ShadowSSDT Address Acquisition Problem](https://debugwar.com/article/Windows-11-SSDT-and-ShadowSSDT-fetch-problem)
